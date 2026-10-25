@@ -1,4 +1,4 @@
-Simple Interest Calculator
+github-final-project.
 
 Project Description
 
